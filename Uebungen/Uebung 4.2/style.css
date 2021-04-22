@@ -1,0 +1,100 @@
+.wrapper {
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (12, 5%)[8];
+      grid-template-columns: repeat(8, 12, 5%);
+  -ms-grid-rows: (20%)[5];
+      grid-template-rows: repeat(5, 20%);
+}
+
+.magenta {
+  background-color: magenta;
+  -ms-grid-column: 1;
+      grid-column-start: 1;
+  grid-column-end: 3;
+  -ms-grid-row: 1;
+      grid-row-start: 1;
+  grid-row-end: 5;
+}
+
+.pink {
+  background-color: pink;
+  -ms-grid-column: 3;
+      grid-column-start: 3;
+  grid-column-end: 8;
+  -ms-grid-row: 1;
+      grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.purple {
+  background-color: purple;
+  -ms-grid-column: 8;
+      grid-column-start: 8;
+  grid-column-end: 9;
+  -ms-grid-row: 1;
+      grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.green {
+  background-color: green;
+  -ms-grid-column: 3;
+      grid-column-start: 3;
+  grid-column-end: 5;
+  -ms-grid-row: 2;
+      grid-row-start: 2;
+  grid-row-end: 4;
+}
+
+.beige {
+  background-color: beige;
+  -ms-grid-column: 5;
+      grid-column-start: 5;
+  grid-column-end: 7;
+  -ms-grid-row: 2;
+      grid-row-start: 2;
+  grid-row-end: 4;
+}
+
+.blue {
+  background-color: blue;
+  -ms-grid-column: 7;
+      grid-column-start: 7;
+  grid-column-end: 9;
+  -ms-grid-row: 2;
+      grid-row-start: 2;
+  grid-row-end: 5;
+}
+
+.lime {
+  background-color: lime;
+  -ms-grid-column: 3;
+      grid-column-start: 3;
+  grid-column-end: 7;
+  -ms-grid-row: 4;
+      grid-row-start: 4;
+  grid-row-end: 5;
+}
+
+.brown {
+  background-color: brown;
+  -ms-grid-column: 1;
+      grid-column-start: 1;
+  grid-column-end: 5;
+  -ms-grid-row: 5;
+      grid-row-start: 5;
+  grid-row-end: 6;
+}
+
+.beige2 {
+  background-color: #c9c962;
+  -ms-grid-column: 5;
+      grid-column-start: 5;
+  grid-column-end: 9;
+  -ms-grid-row: 5;
+      grid-row-start: 5;
+  grid-row-end: 6;
+}
+/*# sourceMappingURL=style.css.map */
