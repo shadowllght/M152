@@ -1,0 +1,19 @@
+Gesetz der Figur-Trennung:  Logos sollten klar erkennbar sein.
+
+Gesetz der Symmetrie:       Webseiten sollten Symmetrisch aufgebaut sein, wo es Sinn macht.
+						
+Gesetz der Einfachheit:     Logos sollten nicht allzu kompliziert sein, wie manche US-Staaten Flaggen
+
+Gesetz der Nähe:            Navigation auf einer Webseite sollte so gruppiert sein dass es Sinn macht.
+
+Gesetz der Kontinuität:     Der Flow einer Webseite sollte nicht verletzt werden.
+
+Gesetz der Ähnlichkeit:     Auf einer Webseite sollte das Styling konsistent bleiben, damit nicht manche Elemente rausstechen würden.
+
+Gesetz der Prägnanz:        Elemente von besonderer wichtigkeit sollten herausstechen, wie z.B cancel buttons.
+
+Gesetz der Geschlossenheit: Es müssen nicht alle Elemente einen fetten Border haben um unbedingt gut strukturiert auszusehen.
+
+Gesetz der Verbundenheit:   Tabellen können als Verbundene Elemente gesehen werden.
+
+Gesetz des gemeinsamen Schicksals: Dynamische Elemente welche sich bewegen könnten miteinander harmonieren.
